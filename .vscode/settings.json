@@ -2,5 +2,6 @@
     "cSpell.words": [
         "CNTSTESAV",
         "STESAV"
-    ]
+    ],
+    "C_Cpp.errorSquiggles": "disabled"
 }
