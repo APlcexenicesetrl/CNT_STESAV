@@ -15,7 +15,7 @@ An encryption algorithm used to protect CNT data.<br><br>
 
 ### **Welcome to use 『CNT』**
 
-CNT STESAV is called "CNT Special Text Encryption System Algorithm Value" and "1236787232" in Chinese.
+CNT STESAV is called "CNT Special Text Encryption System Algorithm Value".
 
 This is a system algorithm for data protection against the CNT series, and this data protection algorithm is open,
 
