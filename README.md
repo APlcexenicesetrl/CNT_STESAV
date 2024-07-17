@@ -13,7 +13,7 @@ An encryption algorithm used to protect CNT data.<br><br>
 
 # Introduction
 
-<h2> **Welcome to use 『CNT』** </h2>
+### **Welcome to use 『CNT』**
 
 CNT STESAV is called "CNT Special Text Encryption System Algorithm Value" and "1236787232" in Chinese.
 
@@ -21,7 +21,7 @@ This is a system algorithm for data protection against the CNT series, and this 
 
 but the reverse destruction of non-open source algorithms is prohibited.
 
-<h2> **Warning** </h2>
+### **Warning**
 
 CNT STESAV was developed by TaimWay to provide encryption algorithms for CNT series.
 
@@ -29,6 +29,6 @@ To some extent, some of these algorithms will be used in public.
 
 This algorithm is licensed by MIT, anyone can use, forward, (twice) change the STESAV algorithm.
 
-<h2> **License** </h2>
+### **License**
 
-MIT license, which allows you to use, view, and modify.
+<a href="https://github.com/APlcexenicesetrl/CNT_STESAV/blob/main/LICENSE">MIT license</a>, which allows you to use, view, and modify.
